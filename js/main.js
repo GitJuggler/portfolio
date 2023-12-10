@@ -270,10 +270,10 @@ function bodyScrollingToggle() {
 //     })
 // })();
 
-window.addEventListener("load", () =>{
-    // preload
-    document.querySelector(".preloader").classList.add("fade-out");
-    setTimeout(() =>{
-        document.querySelector(".preloader").style.display = "none";
-    }, 600)
-})
+// window.addEventListener("load", () =>{
+//     // preload
+//     document.querySelector(".preloader").classList.add("fade-out");
+//     setTimeout(() =>{
+//         document.querySelector(".preloader").style.display = "none";
+//     }, 600);
+// })
